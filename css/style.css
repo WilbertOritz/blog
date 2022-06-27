@@ -10,9 +10,22 @@ body{
     border: 1px solid #333;
     width: 70%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 0;
 }
 
 .container h1{
     font-size: 20px;
+}
+
+.post{
+    padding: 10px;
+}
+
+
+.cabecera{
+    background-color: #782;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    font-size: 23px;
 }
